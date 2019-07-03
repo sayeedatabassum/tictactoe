@@ -11,7 +11,7 @@ using namespace std;
 
 void display_board()
 {
-    clrscr();
+    system(cls);
     cout<<"\n\n    T i c k  C r o ss  G a m e"<<endl;
    
 	cout<<"\tPlayer1 [X] \n\tPlayer2 [O]\n\n";
